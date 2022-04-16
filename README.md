@@ -17,3 +17,9 @@ https://user-images.githubusercontent.com/66934377/163670233-93a17609-ce8f-46b8-
 ---
 
 # 🗂️ Framework
+
+This project is made with **Bootstrap Framewok** only.
+
+| Framework  | Version |
+| ------------- | ------------- |
+| Bootstrap  | 5.1.3  |
