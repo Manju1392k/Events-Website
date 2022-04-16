@@ -12,7 +12,7 @@ https://user-images.githubusercontent.com/66934377/163670091-a6c5832b-9293-40c6-
 
 # 📱 Preview of Responsive design
 
-Uploading Events_Mobile.mp4…
+https://user-images.githubusercontent.com/66934377/163670233-93a17609-ce8f-46b8-b84a-89806e370e83.mp4
 
 ---
 
